@@ -2,7 +2,7 @@
 //declaramos la varible de donde saldran los datos 
 $servername = "localhost";
 $usuario = "root";
-$password = "root";
+$password = "";
 $database = "doginn";
 
 // Crear conexión
